@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://victormirandaportfolio.web.app/)
 
-- 🌱 I’m currently learning **Angular, bootstrap, boot sprint in ArgentinaPrograma #YoProgramo**
+- 🌱 I’m currently learning **Angular, bootstrap, sprint boot in ArgentinaPrograma #YoProgramo**
 
 - 👨‍💻 All of my projects are available at [https://victormirandaportfolio.web.app/](https://victormirandaportfolio.web.app/)
 
